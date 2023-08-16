@@ -1,3 +1,10 @@
+# Importante
+
+### Asegurate de agregar las variables de entorno
+VUE_APP_GITHUB_ENDPOINT: endpoint para los issues vea See [la documentacion](https://docs.github.com/en/rest/issues/issues?apiVersion=2022-11-28#list-repository-issues).
+VUE_APP_GITHUB_TOKEN: tu token de acceso de github
+
+
 # todo-proyect
 
 ## Project setup
